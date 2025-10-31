@@ -1,6 +1,8 @@
 # Dndnrmn10's Gallery
 This is the gallery i made for high quality videos, gif files, and more.
-There is high quality videos<sup>some</sup> in the gallery,
+There is high quality videos<sup>some</sup> in the gallery, there is some videos with soundtrack on it, There is text images i made with Textcraft Pro using the fonts Mega-1, Mega-2 and Mega 3, also There is some tiltshifted files in the gallery.
+
+> Also, i have Textcraft Pro styles that i made with the Mega fonts.
 
 ## Examples
 <p align="center">
