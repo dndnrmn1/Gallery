@@ -1,5 +1,6 @@
 # Dndnrmn10's Gallery
 This is the gallery i made for high quality videos, gif files, and more.
+There is high quality videos<sup>some</sup> in the gallery,
 
 ## Examples
 <p align="center">
