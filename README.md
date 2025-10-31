@@ -1,6 +1,7 @@
-# Gallery
-My gallery i made because I am globally blocked in Wikimedia wikis.
-Also, the wiki itself is a gallery also
+<p align="center">
+  **Dndnrmn10's Gallery**
+</p>
+This is the gallery i made for high quality videos, gif files, and more.
 ## Examples
 <p align="center">
   <img src="./IMG_2690.png" width="50%">
