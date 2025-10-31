@@ -1,6 +1,4 @@
-## <p align="center">
- __Dndnrmn10's Gallery__
- </p>
+# Dndnrmn10's Gallery
 This is the gallery i made for high quality videos, gif files, and more.
 
 ## Examples
