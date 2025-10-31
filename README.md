@@ -9,7 +9,7 @@ I also made high-res remakes of some Textcraft styles by somebody else in Textcr
 According to Glitterboo FAQ, the difference between the Free version and the Membership version<sup>Already have this version</sup> is the max image and animation download size which is 2048px in the membership version, 640x480px<sup>image</sup> and 360px<sup>animation</sup> in the free version.[^5]
 
 ## Did i try all effects yet in Glitterboo?
-**No,** i did not, but i will create a subgallery of all 20 effects of Glitterboo, but it will take an long time during this because of the effects below, i will just try 5 effect catgories with the count of effects here in those effect categories daliy.
+**No,** i did not, but i will create a subgallery of all 20 effects of Glitterboo, but it will take an long time during this because of the effects below, i will just try 5 effect catgories with the count of effects here in those effect categories daliy.[^5]
 
 ## Dndnrmn-what?
 **Dndnrmn10** is a short name of Dandan Romana + 10 and the orgin of the name is Wikimedia Commons, with additonal 0 on the end.
@@ -28,4 +28,4 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
 [^2]: [Scratch Logo Hires Style](https://textcraft.net/style/Dndnrmn10/scratch-logo-hires)
 [^3]: [Golden Text Hires Style](https://textcraft.net/style/Dndnrmn10/golden-text-hires)
 [^4]: [Youtube Thumbail Hires](https://textcraft.net/style/Dndnrmn10/youtube-thumbnail-hires)
-[^5]: [FAQ page of Glitterboo](https://glitterboo.com/faq.php?page=membership)
+[^5]: [FAQ page of Glitterboo](https://glitterboo.com/faq.php?page=membership#2)
