@@ -10,7 +10,8 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
 
 ## Dndnrmn-what?
 > Work in progress.
-
+**Dndnrmn10** is a short name of Dandan Romana + 10 and the orgin of the name is Wikimedia Commons, with additonal 0 on the end.
+> 
 ## Examples
 <p align="center">
   <img src="./IMG_2690.png" width="50%">
