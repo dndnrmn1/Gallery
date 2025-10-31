@@ -8,10 +8,12 @@ I also made high-res remakes of some Textcraft styles by somebody else in Textcr
 ## How do make high-res images up to 2048px in Glitterboo?
 According to Glitterboo FAQ, the difference between the Free version and the Membership version<sup>Already have this version</sup> is the max image and animation download size which is 2048px in the membership version, 640x480px<sup>image</sup> and 360px<sup>animation</sup> in the free version.[^5]
 
+## Did i try all effects yet in Glitterboo?
+**No,** i did not, but i will create a subgallery of all 20 effects of Glitterboo.
+
 ## Dndnrmn-what?
-> Work in progress.
 **Dndnrmn10** is a short name of Dandan Romana + 10 and the orgin of the name is Wikimedia Commons, with additonal 0 on the end.
-> 
+
 ## Examples
 <p align="center">
   <img src="./IMG_2690.png" width="50%">
