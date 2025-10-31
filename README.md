@@ -11,6 +11,9 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
 ## Did i try all effects yet in Glitterboo?
 **No,** i did not, but i will create a subgallery of all 20 effects of Glitterboo, but it will take an long time during this because of the effects below, i will just try all effect catgories with the first effect here in those effect categories.[^6]
 
+### Gallery of all 20 effects of Glitterboo membership
+> Animated X-Large file size only
+
 ## Dndnrmn-what?
 **Dndnrmn10** is a short name of Dandan Romana + 10 and the orgin of the name is Wikimedia Commons, with additonal 0 on the end.
 
