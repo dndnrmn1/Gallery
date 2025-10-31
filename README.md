@@ -5,6 +5,9 @@ I also made high-res remakes of some Textcraft styles by somebody else in Textcr
 
 > Also, i have Textcraft Pro styles that i made with the Mega fonts.
 
+## How i make high-res images up to 2048px in Glitterboo?
+According to Glitterboo FAQ, the difference between the Free version and the Membership version<sup>Already have this version</sup> is the max image and animation download size which is 2048px in the membership version, 640x480px<sup>image</sup> and 360px<sup>animation</sup> in the free version.[^5]
+
 ## Examples
 <p align="center">
   <img src="./IMG_2690.png" width="50%">
@@ -19,3 +22,4 @@ I also made high-res remakes of some Textcraft styles by somebody else in Textcr
 [^2]: [Scratch Logo Hires Style](https://textcraft.net/style/Dndnrmn10/scratch-logo-hires)
 [^3]: [Golden Text Hires Style](https://textcraft.net/style/Dndnrmn10/golden-text-hires)
 [^4]: [Youtube Thumbail Hires](https://textcraft.net/style/Dndnrmn10/youtube-thumbnail-hires)
+[^5]: [FAQ page of Glitterboo](https://glitterboo.com/faq.php?page=membership)
