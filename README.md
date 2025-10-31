@@ -1,7 +1,8 @@
 <p align="center">
-  **Dndnrmn10's Gallery**
+ __Dndnrmn10's Gallery__
 </p>
 This is the gallery i made for high quality videos, gif files, and more.
+
 ## Examples
 <p align="center">
   <img src="./IMG_2690.png" width="50%">
