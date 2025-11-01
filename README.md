@@ -12,27 +12,7 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
 **Yes,** i do.[^6]
 
 ### Gallery of all 20 effects of Glitterboo membership
-> Animated X-Large file size only
-<p align="center">
-  <img src="./christmas-glitter-background-with-stars-bokeh-lights-1280x1280.gif" width="15%">
-  <img src="./IMG_2698-1280x819.gif" width="15%">
-  <img src="./IMG_2699-1280x915.gif" width="15%">
-  <img src="https://raw.githubusercontent.com/dndnrmn1/Gallery/beb9241825ef6c2a9c0d7329312a4cf0747d231e/Mandelbrot_4_Bo%CC%82ng_Hoa%CC%80ng_Da%CC%83-1280x905.gif" width="15%">
-  <img src="./Star_Spangled_Banner_(Carr)_(1814)-1280x960.gif" width="15%">
-  <br>
-  <img src="./de6cf6143e-yin_yang-svg-1280x1280.gif" width="15%">
-  <img src="./Night_trance_music_party,_Koh_Chang,_Thailand-1280x853.gif" width="15%">
-  <img src="./4a523784a4-fs_c-2c-c-1280x1280.gif" width="15%">
-  <img src="./Equation_for_a_heart-1064x1280.gif" width="15%">
-  <img src="./Yellow_flowers_a-965x1280.gif" width="15%">
-  <br>
-  <img src="./Fliegenpilz_fly_agaric_Amanita_muscaria-1280x853.gif" width="15%">
-  <img src="./Golden_monkey_(Cercopithecus_kandti)_eating-1280x853.gif" width="15%">
-  <img src="./Monarch_Butterfly_Pink_Zinnia_1800px-1152x1280.gif" width="15%">
-  <img src="./Splat-O-Sphere3.2-1280x960.gif" width="15%">
-  <img src="./Noodle_soup_beef_03-1280x969.gif" width="15%">
-</p>
-
+Moved to the wiki
 ## Dndnrmn-what?
 **Dndnrmn10** is a short name of Dandan Romana + 10 and the orgin of the name is Wikimedia Commons, with additonal 0 on the end.
 
