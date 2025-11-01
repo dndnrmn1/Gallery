@@ -25,6 +25,12 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
   <img src="./4a523784a4-fs_c-2c-c-1280x1280.gif" width="15%">
   <img src="./Equation_for_a_heart-1064x1280.gif" width="15%">
   <img src="./Yellow_flowers_a-965x1280.gif" width="15%">
+  <br>
+  <img src="./Fliegenpilz_fly_agaric_Amanita_muscaria-1280x853.gif" width="15%">
+  <img src="./Golden_monkey_(Cercopithecus_kandti)_eating-1280x853.gif" width="15%">
+  <img src="./Monarch_Butterfly_Pink_Zinnia_1800px-1152x1280.gif" width="15%">
+  <img src="./Splat-O-Sphere3.2-1280x960.gif" width="15%">
+  <img src="./Noodle_soup_beef_03-1280x969.gif" width="15%">
 </p>
 
 ## Dndnrmn-what?
