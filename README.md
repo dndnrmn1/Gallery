@@ -20,10 +20,11 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
   <img src="https://raw.githubusercontent.com/dndnrmn1/Gallery/beb9241825ef6c2a9c0d7329312a4cf0747d231e/Mandelbrot_4_Bo%CC%82ng_Hoa%CC%80ng_Da%CC%83-1280x905.gif" width="15%">
   <img src="./Star_Spangled_Banner_(Carr)_(1814)-1280x960.gif" width="15%">
   <br>
-  <img src="./IMG_2641-2048x1365.gif" width="20%">
-  <img src="./Glitter (253913867)-tiltshift-2048x1365-2048x1365.jpg" width="20%">
-  <img src="./Flag_of_the_United_States_(DoS_ECA_Color_Standard).svg 2-1280x674.jpg" width="20%">
-  <img src="./Flag_of_Libya.svg-1024x512.jpg" width="20%">
+  <img src="./de6cf6143e-yin_yang-svg-1280x1280.gif" width="15%">
+  <img src="./Night_trance_music_party,_Koh_Chang,_Thailand-1280x853.gif" width="15%">
+  <img src="./4a523784a4-fs_c-2c-c-1280x1280.gif" width="15%">
+  <img src="./Equation_for_a_heart-1064x1280.gif" width="15%">
+  <img src="./Yellow_flowers_a-965x1280.gif" width="15%">
 </p>
 
 ## Dndnrmn-what?
