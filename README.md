@@ -9,10 +9,18 @@ I also made high-res remakes of some Textcraft styles by somebody else in Textcr
 According to Glitterboo FAQ, the difference between the Free version and the Membership version<sup>Already have this version</sup> is the max image and animation download size which is 2048px in the membership version, 640x480px<sup>image</sup> and 360px<sup>animation</sup> in the free version.[^5]
 
 ## Did i try all effects yet in Glitterboo?
-**No,** i did not, but i will create a subgallery of all 20 effects of Glitterboo, but it will take an long time during this because of the effects below, i will just try all effect catgories with the first effect here in those effect categories.[^6]
+**Yes,** i do.[^6]
 
 ### Gallery of all 20 effects of Glitterboo membership
 > Animated X-Large file size only
+<p align="center">
+  <img src="./christmas-glitter-background-with-stars-bokeh-lights-1280x1280.gif" width="25%">
+  <br>
+  <img src="./IMG_2641-2048x1365.gif" width="20%">
+  <img src="./Glitter (253913867)-tiltshift-2048x1365-2048x1365.jpg" width="20%">
+  <img src="./Flag_of_the_United_States_(DoS_ECA_Color_Standard).svg 2-1280x674.jpg" width="20%">
+  <img src="./Flag_of_Libya.svg-1024x512.jpg" width="20%">
+</p>
 
 ## Dndnrmn-what?
 **Dndnrmn10** is a short name of Dandan Romana + 10 and the orgin of the name is Wikimedia Commons, with additonal 0 on the end.
