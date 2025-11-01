@@ -17,7 +17,7 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
   <img src="./christmas-glitter-background-with-stars-bokeh-lights-1280x1280.gif" width="15%">
   <img src="./IMG_2698-1280x819.gif" width="15%">
   <img src="./IMG_2699-1280x915.gif" width="15%">
-  <img src="./Mandelbrot_4_Bông_Hoàng_Dã-1280x905.gif" width="15%">
+  <img src="https://raw.githubusercontent.com/dndnrmn1/Gallery/beb9241825ef6c2a9c0d7329312a4cf0747d231e/Mandelbrot_4_Bo%CC%82ng_Hoa%CC%80ng_Da%CC%83-1280x905.gif" width="15%">
   <img src="./Star_Spangled_Banner_(Carr)_(1814)-1280x960.gif" width="15%">
   <br>
   <img src="./IMG_2641-2048x1365.gif" width="20%">
