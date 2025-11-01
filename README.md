@@ -15,6 +15,10 @@ According to Glitterboo FAQ, the difference between the Free version and the Mem
 > Animated X-Large file size only
 <p align="center">
   <img src="./christmas-glitter-background-with-stars-bokeh-lights-1280x1280.gif" width="25%">
+  <img src="./IMG_2698-1280x819.gif" width="25%">
+  <img src="./IMG_2699-1280x915.gif" width="25%">
+  <img src="./Mandelbrot_4_Bông_Hoàng_Dã-1280x905.gif" width="25%">
+  <img src="./Star_Spangled_Banner_(Carr)_(1814)-1280x960.gif" width="25%">
   <br>
   <img src="./IMG_2641-2048x1365.gif" width="20%">
   <img src="./Glitter (253913867)-tiltshift-2048x1365-2048x1365.jpg" width="20%">
